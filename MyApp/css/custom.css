@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+.button {
+			    background-color: #4CAF50;
+			    border: none;
+			    color: white;
+			    padding: 10px 12px;
+			    text-align: center;
+			    text-decoration: none;
+			    display: inline-block;
+			    font-size: 12px;
+			    margin: 4px 2px;
+			    cursor: pointer;
+			}
+.blueButton {background-color: #008CBA;} /* Blue */
+.grayButton {background-color: #e7e7e7; color: black;} /* Gray */
